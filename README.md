@@ -1,4 +1,4 @@
-# Resident Evil – Dataset creation & Network Analysis
+# Resident Evil - Dataset creation & Network Analysis
 
 This repository contains a three notebook pipeline that builds and analyzes a synthetic dataset of the Resident Evil game universe. The final goal of this project is doign a social network analysis of character interactions.
 
